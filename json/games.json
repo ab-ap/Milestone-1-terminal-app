@@ -1,0 +1,173 @@
+[
+    {
+      "id": "GAME-001",
+      "name": "The Witcher 3: Wild Hunt",
+      "description": "An award-winning action role-playing game set in a vast open world.",
+      "rating": 9.8,
+      "isActive": true,
+      "releaseDate": "2015-05-19",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/theWitcher.jpeg",
+      "genre": "Action RPG",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-001",
+        "name": "CD Projekt RED",
+        "foundedYear": 1994,
+        "country": "Poland"
+      }
+    },
+    {
+      "id": "GAME-002",
+      "name": "Red Dead Redemption 2",
+      "description": "A Western-themed action-adventure game with an expansive open world.",
+      "rating": 9.7,
+      "isActive": true,
+      "releaseDate": "2018-10-26",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/rdd2.jpeg",
+      "genre": "Action-Adventure",
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "developer": {
+        "id": "DEV-002",
+        "name": "Rockstar Games",
+        "foundedYear": 1998,
+        "country": "United States"
+      }
+    },
+    {
+      "id": "GAME-003",
+      "name": "Cyberpunk 2077",
+      "description": "A futuristic open-world action-adventure game with a gripping narrative.",
+      "rating": 9.2,
+      "isActive": true,
+      "releaseDate": "2020-12-10",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/cb2077jpg.jpg",
+      "genre": "Action RPG",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-001",
+        "name": "CD Projekt RED",
+        "foundedYear": 1994,
+        "country": "Poland"
+      }
+    },
+    {
+      "id": "GAME-004",
+      "name": "The Elder Scrolls V: Skyrim",
+      "description": "An epic fantasy role-playing game set in the vast open world of Skyrim.",
+      "rating": 9.3,
+      "isActive": true,
+      "releaseDate": "2011-11-11",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/skyrim.png",
+      "genre": "Action RPG",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-003",
+        "name": "Bethesda Game Studios",
+        "foundedYear": 2001,
+        "country": "United States"
+      }
+    },
+    {
+      "id": "GAME-005",
+      "name": "Assassin's Creed Odyssey",
+      "description": "Embark on a journey in ancient Greece as a legendary Spartan hero.",
+      "rating": 9.0,
+      "isActive": true,
+      "releaseDate": "2018-10-05",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/assasin.jpeg",
+      "genre": "Action RPG",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-004",
+        "name": "Ubisoft Quebec",
+        "foundedYear": 2005,
+        "country": "Canada"
+      }
+    },
+    {
+      "id": "GAME-006",
+      "name": "God of War",
+      "description": "An action-adventure game that follows Kratos, a Spartan warrior, on his journey with his son.",
+      "rating": 9.7,
+      "isActive": true,
+      "releaseDate": "2018-04-20",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/god.jpeg",
+      "genre": "Action-Adventure",
+      "platforms": ["PlayStation 4"],
+      "developer": {
+        "id": "DEV-005",
+        "name": "Santa Monica Studio",
+        "foundedYear": 1999,
+        "country": "United States"
+      }
+    },
+    {
+      "id": "GAME-007",
+      "name": "Minecraft",
+      "description": "A sandbox game that allows players to build and explore virtual worlds made up of blocks.",
+      "rating": 9.1,
+      "isActive": true,
+      "releaseDate": "2011-11-18",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/Minecraft.png",
+      "genre": "Sandbox",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-006",
+        "name": "Mojang Studios",
+        "foundedYear": 2009,
+        "country": "Sweden"
+      }
+    },
+    {
+      "id": "GAME-008",
+      "name": "Grand Theft Auto V",
+      "description": "An action-adventure game set in the fictional state of San Andreas.",
+      "rating": 9.5,
+      "isActive": true,
+      "releaseDate": "2013-09-17",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/Grand_Theft_Auto_V.png",
+      "genre": "Action-Adventure",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-002",
+        "name": "Rockstar Games",
+        "foundedYear": 1998,
+        "country": "United States"
+      }
+    },
+    {
+      "id": "GAME-009",
+      "name": "Fortnite",
+      "description": "A battle royale game that lets players fight to be the last one standing.",
+      "rating": 8.7,
+      "isActive": true,
+      "releaseDate": "2017-07-25",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/fortnite.png",
+      "genre": "Battle Royale",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-007",
+        "name": "Epic Games",
+        "foundedYear": 1991,
+        "country": "United States"
+      }
+    },
+    {
+      "id": "GAME-010",
+      "name": "Overwatch",
+      "description": "A team-based multiplayer first-person shooter with a diverse cast of heroes.",
+      "rating": 8.9,
+      "isActive": true,
+      "releaseDate": "2016-05-24",
+      "imageUrl": "https://raw.githubusercontent.com/ab-ap/Milestone-1-terminal-app/main/images/Overwatch.jpg",
+      "genre": "First-Person Shooter",
+      "platforms": ["PC", "PlayStation 4", "Xbox One"],
+      "developer": {
+        "id": "DEV-008",
+        "name": "Blizzard Entertainment",
+        "foundedYear": 1991,
+        "country": "United States"
+      }
+    }
+  ]
+  

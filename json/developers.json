@@ -1,0 +1,63 @@
+[
+    {
+      "id": "DEV-001",
+      "name": "CD Projekt RED",
+      "foundedYear": 1994,
+      "country": "Poland"
+    },
+    {
+      "id": "DEV-002",
+      "name": "Rockstar Games",
+      "foundedYear": 1998,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-003",
+      "name": "Bethesda Game Studios",
+      "foundedYear": 2001,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-004",
+      "name": "Ubisoft Quebec",
+      "foundedYear": 2005,
+      "country": "Canada"
+    },
+    {
+      "id": "DEV-005",
+      "name": "Santa Monica Studio",
+      "foundedYear": 1999,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-006",
+      "name": "Mojang Studios",
+      "foundedYear": 2009,
+      "country": "Sweden"
+    },
+    {
+      "id": "DEV-007",
+      "name": "Epic Games",
+      "foundedYear": 1991,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-008",
+      "name": "Blizzard Entertainment",
+      "foundedYear": 1991,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-009",
+      "name": "Naughty Dog",
+      "foundedYear": 1984,
+      "country": "United States"
+    },
+    {
+      "id": "DEV-010",
+      "name": "Square Enix",
+      "foundedYear": 1986,
+      "country": "Japan"
+    }
+  ]
+  
